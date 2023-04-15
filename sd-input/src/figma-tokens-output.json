@@ -1,5 +1,18 @@
 {
-  "global": {},
+  "global": {
+    "s": {
+      "value": "20px",
+      "type": "spacing"
+    },
+    "body": {
+      "value": {
+        "lineHeight": "27",
+        "fontSize": "18",
+        "paragraphSpacing": "36"
+      },
+      "type": "typography"
+    }
+  },
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
